@@ -27,4 +27,4 @@ Don't need much more nor less.
 
 ---
 
-Homepage: <https://leskovsek.dev>
+**Homepage:** <https://leskovsek.dev>
