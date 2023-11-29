@@ -14,7 +14,7 @@ Mainly developing Python 🐍 applications & libraries.<br/>
 A little C/C++ here and there.<br/>
 Lately been very rusty on Rust 🦀 development.
 
-## Programming setup
+## Programming Setup
 
 Ain't living without these anymore:
 
