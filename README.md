@@ -1,16 +1,30 @@
-### Hi there 👋
+# The Big Leskovski ☕
 
-<!--
-**Leskodamus/Leskodamus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_The Dude - His Dudeness - El Duderino_ 🧔
 
-Here are some ideas to get you started:
+Linux Enthusiast & Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Your average Arch Linux 🐧 & Neovim ⌨️ user.
+
+## Programming Interests
+
+Mainly developing Python 🐍 applications & libraries.<br/>
+A little C/C++ here and there.<br/>
+Lately been very rusty on Rust 🦀 development.
+
+## Programming setup
+
+Ain't living without these anymore:
+
+- [x] Neovim
+- [x] ChatGPT
+- [x] Copilot
+- [x] Obisidan
+
+Don't need much more nor less.
+
+---
+
+Homepage: <https://leskovsek.dev>
