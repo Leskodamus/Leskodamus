@@ -19,7 +19,6 @@ Lately been very rusty on Rust 🦀 development.
 Ain't living without these anymore:
 
 - [x] Neovim
-- [x] ChatGPT
 - [x] Copilot
 - [x] Obisidan
 
