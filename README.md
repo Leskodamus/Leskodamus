@@ -10,9 +10,9 @@ Your average Arch Linux 🐧 & Neovim ⌨️ user.
 
 ## Programming Interests
 
-Mainly developing Python 🐍 applications & libraries.<br/>
+Mainly developing backends in Golang, Python 🐍 applications & libraries.<br/>
 A little C/C++ here and there.<br/>
-Lately been very rusty on Rust 🦀 development.
+Lately been very rusty on Rust 🦀 development. Soon&trade; back on it.
 
 ## Programming Setup
 
