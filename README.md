@@ -1,28 +1,20 @@
 # The Big Leskovski ☕
 
-_The Dude - His Dudeness - El Duderino_ 🧔
+_The Dude_
 
-Linux Enthusiast & Software Developer
+_His Dudeness_
+
+_El Duderino_
 
 ---
 
-Your average Arch Linux 🐧 & Neovim ⌨️ user.
+Mainly developing in C/C++, Python & Golang.
 
-## Programming Interests
+Software Engineer. Period. 
 
-Mainly developing backends in Golang, Python 🐍 applications & libraries.<br/>
-A little C/C++ here and there.<br/>
-Lately been very rusty on Rust 🦀 development. Soon&trade; back on it.
+Owner of two 🐈‍⬛ cats.
 
-## Programming Setup
-
-Ain't living without these anymore:
-
-- [x] Neovim
-- [x] Copilot
-- [x] Obisidan
-
-Don't need much more nor less.
+Adventurer in nature.
 
 ---
 
